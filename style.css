@@ -1,10 +1,20 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(./images/pexels-pixabay-302804.jpg);
+    background: url(./images/bush.jpg);
     font-family: sans-serif;
     font-weight: 300;
+    background-position: center;
+    background-size: cover;
 }
-.p {
+.loginbox{
+    width: 300px;
+    height: 350px;
+    background: transparent;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);}
     
-}
+    
